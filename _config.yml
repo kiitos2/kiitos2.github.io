@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "이경진 (Kate Lee / Lee Kyung Jin)"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "안녕하세요.  **꾸준한 성장**을 지향하는 데이터 전문가 이경진입니다. :>"
+  name             : "이경진"
+  avatar           : "/assets/images/1.jpg"
+  bio              : "안녕하세요.  **꾸준한 성장**을 지향하는 데이터 전문가 이경진입니다. :)"
   location         : #"Somewhere"
   email            :
   links:
